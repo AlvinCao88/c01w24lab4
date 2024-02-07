@@ -1,0 +1,2 @@
+Fixed bug in the delete a note in the server.js and App.js in frontend
+because the code was not write
